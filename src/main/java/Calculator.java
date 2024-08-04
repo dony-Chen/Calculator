@@ -11,4 +11,8 @@ public class Calculator {
         //return -1;
         return a * b;
     }
+
+    public double divide(double a, double b) {
+        return a * b;
+    }
 }
